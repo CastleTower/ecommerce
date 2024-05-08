@@ -1,0 +1,34 @@
+→ Install ngx-bootstrap ←
+ng add ngx-bootstrap
+
+8 With Angular 13
+9 With Angular 14
+10 With Angular 15
+
+
+→ Font Awesome ←
+npm install font-awesome
+
+→ toastr Notifaction ←
+npm install ngx-toastr
+
+→ breadcrumb←
+npm i xng-breadcrumb
+
+
+→ CLI Commond ←
+- ng g m Core --routing     → Create Module with Routing
+- ng g s Shop --skip-tests  → Create Service and Skip Test File
+- ng g interceptor error    → To Handle Error 
+- npm i ngx-spinner@14.0.0
+- docker-compose up --detach
+- ng g --help 
+
+
+
+- Core 
+-- Navbar Component
+
+- Shared
+-- Models
+-- 
